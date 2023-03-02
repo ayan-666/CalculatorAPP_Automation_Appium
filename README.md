@@ -25,3 +25,8 @@ Automate calculator app and do following tests:
 ![Report2](https://user-images.githubusercontent.com/67514655/222501755-3d7832e6-08d8-4261-b1c8-707b27f32a34.png)
 
 ![Report3](https://user-images.githubusercontent.com/67514655/222501807-90d9ff35-7f9e-4975-8638-e7264c5e4dff.png)
+
+## Output Video of the Project
+
+https://user-images.githubusercontent.com/67514655/222502015-d0c6b9ee-96b6-43da-af3e-11e2efe2b08b.mp4
+
